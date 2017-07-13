@@ -22,11 +22,6 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.cloudbus.cloudsim</groupId>
-			<artifactId>cloudsim</artifactId>
-			<version>3.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-math3</artifactId>
 			<version>3.3</version>

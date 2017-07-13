@@ -1,0 +1,13 @@
+user_0,0.0,0.0,0.0,0.0,user_1,2.5837917664003642E-14,0.0,0.0,0.0,,All users total dev,0.0
+user_0,0.0,1.7763568394002505E-14,2.220446049250313E-14,0.0,user_1,0.0,1.7763568394002505E-14,2.220446049250313E-14,0.0,,All users total dev,0.0
+user_0,0.0,0.0,0.0,0.0,user_1,0.0,0.0,0.0,0.0,,All users total dev,0.0
+user_0,0.0,0.0,0.0,0.0,user_1,0.0,0.0,0.0,0.0,,All users total dev,0.0
+user_0,0.0,0.0,0.0,0.0,user_1,0.0,0.0,0.0,0.0,,All users total dev,0.0
+user_0,0.0,0.0,-16.85985792507115,-16.86,user_1,0.0,1.4322570767186056E-14,16.85985792507113,16.86,,All users total dev,33.72
+user_0,-1.1247213862447174E-14,0.0,0.0,0.0,user_1,1.1492806077801863E-14,0.0,0.0,0.0,,All users total dev,0.0
+user_0,-0.002258996725496723,0.0,0.0,0.0,user_1,0.002258996725496723,0.0,0.0,0.0,,All users total dev,0.0
+user_0,0.0,0.0,0.0,0.0,user_1,0.0,0.0,0.0,0.0,,All users total dev,0.0
+user_0,0.0,0.0,0.0,0.0,user_1,0.0,0.0,0.0,0.0,,All users total dev,0.0
+user_0,0.0,0.0,0.0,0.0,user_1,0.0,0.0,0.0,0.0,,All users total dev,0.0
+user_0,0.0,0.0,0.0,0.0,user_1,0.0,0.0,0.0,0.0,,All users total dev,0.0
+Avg. asset fairness (Jain's): 0.9997, Avg. DRF fairness (Jain's) 1.0, Avg. Greediness fairness (Jain's) 0.0, avg. asset fairness (absolute): -0.78, Avg. resource fairness: -2.81, Total unfairness by resource: CPU: 0.0, BW: 0.0, Disk I/O: 16.86, Unused allocation: 2500.0
